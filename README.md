@@ -3,7 +3,7 @@
 
 <h2 align="center">
   <video width="320" height="240" controls>
-  <source src="https://github.com/Nikillanr/Manas_Last_Task_Website/examples/videophone.gif" type="video/mp4">
+  <source src="https://github.com/Nikillanr/Manas_Last_Task_Website/examples/videophone.mp4" type="video/mp4">
 </video>
   <br>
 </h2>
