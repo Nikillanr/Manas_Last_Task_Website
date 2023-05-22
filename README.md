@@ -2,7 +2,7 @@
 ## Done as a task in the taskphase of project MANAS
 
 <h2 align="center">
-  <video width="320" height="240" controls>
+  <video width="320" height="240">
   <source src="https://github.com/Nikillanr/Manas_Last_Task_Website/examples/videophone.mp4" type="video/mp4">
 </video>
   <br>
