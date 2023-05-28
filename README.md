@@ -1,11 +1,5 @@
 # Project MANAS  
 ## Done as a task in the taskphase of project MANAS
-
-<h2 align="center">
-  <img src="https://github.com/Nikillanr/Manas_Last_Task_Website/examples/videophone.gif" alt="none" width="600px" />
-  <br>
-</h2>
-
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
