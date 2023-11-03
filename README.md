@@ -10,7 +10,7 @@
 ⚡️ Built on React Framework\
 ⚡️ Primarily written on JSX
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+
 
 ---
 
